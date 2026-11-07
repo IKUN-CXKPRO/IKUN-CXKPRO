@@ -29,6 +29,16 @@
 
 ## 精选项目
 
+## WristLoad
+
+首个在PC平台实现同时连接多个**Vela系统的小米穿戴设备**的软件
+
+<p>
+  <a href="https://github.com/An2em6o/Wristload-Next">
+    <img src="https://opengraph.githubassets.com/1/An2em6o/Wristload-Next" alt="Wristload-Next" width="100%" />
+  </a>
+</p>
+
 ### Chaos
 一个小米手环 10 Pro 原生应用
 <p>
@@ -66,3 +76,14 @@ Shell++的NativeApp版本。这可能是最早公开**小米手环10Pro NativeAp
     <img src="https://opengraph.githubassets.com/1/Shellplusplus/Shellpp-II-App" alt="Shellpp-II-App" width="100%" />
   </a>
 </p>
+
+
+## 联系方式 | Contact
+<div align="center">
+
+| Platform | Link |
+| :--- | :--- |
+| GitHub | [github.com/IKUN-CXKPRO](https://github.com/IKUN-CXKPRO) |
+| Blog | [ikun-cxkpro.top](https://ikun-cxkpro.top) |
+| Email | [ikun_cxkpro@163.com](mailto:ikun_cxkpro@163.com) |
+| QQ | [3078517671](http://wpa.qq.com/msgrd?v=3&uin=3078517671) |
