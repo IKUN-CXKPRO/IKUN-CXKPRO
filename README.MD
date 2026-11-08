@@ -4,8 +4,7 @@
 
 # 你好，我是IKUN_CXKPRO 👋
 
-## 关于我 | About Me
-你好，我是 **IKUN_CXKPRO**。  
+## 关于我 | About Me 
 **全栈AI开发者**，重度AgentCoding开发者。
 
 [![GitHub followers](https://img.shields.io/github/followers/IKUN-CXKPRO?style=social)](https://github.com/IKUN-CXKPRO)
