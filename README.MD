@@ -69,7 +69,7 @@
 
 ### Shell++ II
 
-Shell++的NativeApp版本。这可能是最早公开**小米手环10Pro NativeApp源码、编译器等等开发资料**的项目，为一些在当时完全不知道NativeApp的开发者提供了非常大的帮助。
+Shell++的NativeApp版本。
 
 <p>
   <a href="https://github.com/Shellplusplus/Shellpp-II-App">
